@@ -9,6 +9,6 @@ export default defineConfig({
   },
   base: "/jquery-to-angular/",
   build: {
-    outDir: "dist",
+    outDir: "build",
   },
 });
